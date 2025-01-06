@@ -1,0 +1,77 @@
+{
+  "pins" : [
+    {
+      "identity" : "fseventswrapper",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Frizlab/FSEventsWrapper",
+      "state" : {
+        "revision" : "70bbea4b108221fcabfce8dbced8502831c0ae04",
+        "version" : "2.1.0"
+      }
+    },
+    {
+      "identity" : "jsonrpc",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ChimeHQ/JSONRPC",
+      "state" : {
+        "revision" : "c6ec759d41a76ac88fe7327c41a77d9033943374",
+        "version" : "0.9.0"
+      }
+    },
+    {
+      "identity" : "languageclient",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:ChimeHQ/LanguageClient.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c5d07d7c9ea4a77a682e572802796122538d2759"
+      }
+    },
+    {
+      "identity" : "languageserverprotocol",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ChimeHQ/LanguageServerProtocol",
+      "state" : {
+        "revision" : "d51412945ae88ffcab65ec339ca89aed9c9f0b8a",
+        "version" : "0.13.3"
+      }
+    },
+    {
+      "identity" : "processenv",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ChimeHQ/ProcessEnv",
+      "state" : {
+        "revision" : "83f1ebc9dd6fb1db0bd89a3fcae00488a0f3fdd9",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "queue",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mattmassicotte/Queue",
+      "state" : {
+        "revision" : "6adf359a705e3252742905b413bb8f56401043ca",
+        "version" : "0.2.0"
+      }
+    },
+    {
+      "identity" : "semaphore",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/groue/Semaphore",
+      "state" : {
+        "revision" : "f1c4a0acabeb591068dea6cffdd39660b86dec28",
+        "version" : "0.0.8"
+      }
+    },
+    {
+      "identity" : "swift-glob",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/davbeck/swift-glob",
+      "state" : {
+        "revision" : "f8d3495325bfd1a53f37ece5a244f28d1d857879",
+        "version" : "0.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}
